@@ -14,6 +14,8 @@ flashing stretch:
 https://www.youtube.com/watch?v=ana7uz0l728
 
 ## challenges
+1. ssh the raspberry pi. How to use laptop to interface with it
+https://www.raspberrypi.org/documentation/remote-access/ssh/
 1. how to get sensor tile to talk with RaspPi using bluetooth
 2. how to access that data from sensor tile
 3. how to get that data to cloud
