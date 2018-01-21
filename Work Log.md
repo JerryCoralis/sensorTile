@@ -23,8 +23,10 @@ https://www.youtube.com/watch?v=ana7uz0l728
 ---
 problem: pairing pi and St
 - pairing via Raspbian GUI and Terminal initially connects then disconnects
+  terminal command: `$ bluetoothctl`
+- ensured the bluetooth daemon is running and working `$ sudo systemctl start bluetooth`
 - GUI sometimes prompts error: Paring failed - GDBus.Error.bluez.Eroror.AuthenticationFailed:Authentication Failed
-
+- 
 
 ST address: C0:7A:31:30:18:4D
 
