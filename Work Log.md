@@ -19,3 +19,6 @@ https://www.raspberrypi.org/documentation/remote-access/ssh/
 1. how to get sensor tile to talk with RaspPi using bluetooth
 2. how to access that data from sensor tile
 3. how to get that data to cloud
+
+## connecting R\pi to sensor tile via bluetooth
+ST address: C0:7A:31:30:18:4D
