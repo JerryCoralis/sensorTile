@@ -1,4 +1,10 @@
 # Internet of Things - progress log
+## Jargon
+STM32
+
+|||
+|---|---|
+|**BLE**|blue tooth low energy|
 
 ## Raspberry pi
 issues with formatting usb in linux
@@ -21,7 +27,7 @@ https://www.youtube.com/watch?v=ana7uz0l728
 
 ## connecting R\pi to sensor tile via bluetooth
 ---
-problem: pairing pi and St
+**problem: pairing pi and St**
 - pairing via Raspbian GUI and Terminal initially connects then disconnects
   terminal command: `$ bluetoothctl`
 - ensured the bluetooth daemon is running and working `$ sudo systemctl start bluetooth`
@@ -38,3 +44,4 @@ ST address: C0:7A:31:30:18:4D
 
 ## R\pi to server IoT
 [promising for IoT using Azure](https://docs.microsoft.com/en-us/azure/iot-suite/iot-suite-v1-raspberry-pi-kit-c-get-started-basic)
+[industrial IoT](http://wizzilab.com/)
