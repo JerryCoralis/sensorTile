@@ -21,4 +21,16 @@ https://www.raspberrypi.org/documentation/remote-access/ssh/
 3. how to get that data to cloud
 
 ## connecting R\pi to sensor tile via bluetooth
+---
+problem: pairing via Raspbian GUI and Terminal initially connects then bounces you out.
+
 ST address: C0:7A:31:30:18:4D
+
+
+---
+
+
+
+
+## R\pi to server IoT
+[promising for IoT using Azure](https://docs.microsoft.com/en-us/azure/iot-suite/iot-suite-v1-raspberry-pi-kit-c-get-started-basic)
