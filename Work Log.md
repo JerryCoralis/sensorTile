@@ -72,9 +72,8 @@ very helpful
 - it doesn't matter what exactly you fill into the fields for identity, but ensure they are information is matching when you are using the STBlue app on the phone to communicate what data is pushed the cloud
 - my setup: 
 
-Field|information
 | Field       | Information |
-|-------------+-------------|
+|-------------|-------------|
 | Device Type | SensorTile  |
 | Device ID   | BM2V220     |
 
