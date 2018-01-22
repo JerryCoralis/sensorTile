@@ -64,8 +64,21 @@ very helpful
 [what the final product might look like](https://www.youtube.com/watch?v=KyS2gNLurKU)
 
 
+## SensorTile straight to cloud server Documentation
+- due to issues with using Rpi is a medium, decided to go broadcast data straight from SensorTile to Cloud server.
+- Using IBM watson IoT services because if their built in data visualization software, very out of the box ready.
+1. Make a BlueMix account and on IBM Cloud and create an instance of "Internet of Things Platforms-pu"
+2. launch the platform and navigate to the devices tab, here we'll be adding the SensorTile as a device for Watson to read data from.
+- it doesn't matter what exactly you fill into the fields for identity, but ensure they are information is matching when you are using the STBlue app on the phone to communicate what data is pushed the cloud
+- my setup: 
 
+Field|information
+| Field       | Information |
+|-------------+-------------|
+| Device Type | SensorTile  |
+| Device ID   | BM2V220     |
 
+device id was pulled from what the STBlue app recognizes it as
 
 
 
