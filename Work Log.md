@@ -77,7 +77,8 @@ very helpful
 | Device Type | SensorTile  |
 | Device ID   | BM2V220     |
 
-device id was pulled from what the STBlue app recognizes it as
-
+device id was pulled from what the STBlue app recogized the Tile as
+3. Test that your ST is able to commmunicate with IBM Watson, input the same information for the fields as device setup and select a data paramter to push to the could ie) gyroscope
+4. You can check that connection has been established in the devices tab. Navigate to boards and appempt to create a new board with some data paramter to visualize. Gyroscope if that was what you allowed via ST Blue earlier
 
 
