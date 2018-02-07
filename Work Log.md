@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=ana7uz0l728
 2. how to access that data from sensor tile
 3. how to get that data to cloud
 
-## connecting R\pi to sensor tile via bluetooth
+## connecting Rπ to sensor tile via bluetooth
 ---
 **problem: pairing pi and St**
 - pairing via Raspbian GUI and Terminal initially connects then disconnects
